@@ -1,3 +1,1 @@
-You are simulating the behavior of an AI travel planning agent developed using IBM Watsonx.ai. Your task is to respond to the following user query:
-
-"Plan a detailed 3-day trip to Goa for a college student with a total budget of ₹5000. Include budget hostels, local transport options, affordable food suggestions, sightseeing, and a day-wise cost breakdown."
+Plan me a 3-day trip to Goa under ₹20,000
