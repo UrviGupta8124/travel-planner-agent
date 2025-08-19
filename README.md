@@ -4,12 +4,12 @@ This project demonstrates an AI-powered Travel Planner Agent that helps users pl
 
 ## 💡 Objective
 
-To simulate the behavior of an AI agent developed using IBM Watsonx.ai and foundation models such as Mistral-large, capable of producing structured, budget-conscious travel plans with minimal input.
+To simulate the behavior of an AI agent developed using IBM Watsonx.ai and foundation models such as llama-3.3-70b-instruct, capable of producing structured, budget-conscious travel plans with minimal input.
 
 ## 🛠️ Tools & Technologies
 
 - IBM Watsonx.ai Studio (conceptual)
-- IBM Watsonx.ai Runtime (not accessible due to Lite plan limits)
+- IBM Watsonx.ai Runtime
 - Foundation model (prompt-based simulation)
 - Prompt engineering techniques
 - Cloud Object Storage (planned but not accessed)
@@ -22,10 +22,6 @@ To simulate the behavior of an AI agent developed using IBM Watsonx.ai and found
   - `response.txt` – Generated output (itinerary)
   - `screenshots/` – Screenshots of prompt and response for results section
 - `Travel_Buddy_Project.ipynb` – Jupyter Notebook
-
-## 📌 Note on Simulation
-
-Due to technical limitations accessing IBM Watsonx.ai runtime and Prompt Lab under the Lite plan, the AI output was simulated to represent the expected behavior of the Travel Planner Agent. The generated results reflect what would be produced using a foundation model.
 
 ## 🧾 Author
 
