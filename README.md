@@ -22,6 +22,7 @@ To simulate the behavior of an AI agent developed using IBM Watsonx.ai and found
   - `response.txt` – Generated output (itinerary)
   - `screenshots/` – Screenshots of prompt and response for results section
 - `Notes/platform_limitations.txt` – Explanation of IBM Cloud issues
+- `Travel_Buddy_Project.ipynb` – Jupyter Notebook
 
 ## 📌 Note on Simulation
 
